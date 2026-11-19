@@ -35,9 +35,9 @@ These tools are **assessment** utilities — they do not exploit, decrypt, or at
 ## Editorial references
 
 The methodology behind these checks and detailed provider scorecards are published at the companion site:
-- [E2E vs zero-knowledge cloud storage (FR)](https://www.priviy.com/fr/e2e-vs-zero-knowledge-cloud-storage-2026)
-- [E2E vs zero-knowledge cloud storage (EN)](https://www.priviy.com/en/e2e-vs-zero-knowledge-cloud-storage-2026)
-- [pCloud review 2026 (FR)](https://www.priviy.com/fr/pcloud-avis-2026)
+- [E2E vs zero-knowledge cloud storage (FR)](https://www.priviy.com/fr/blog/e2e-vs-zero-knowledge-cloud-storage-2026)
+- [E2E vs zero-knowledge cloud storage (EN)](https://www.priviy.com/en/blog/e2e-vs-zero-knowledge-cloud-storage-2026)
+- [pCloud review 2026 (FR)](https://www.priviy.com/fr/avis-pcloud)
 - [Methodology](https://www.priviy.com/en/methodology)
 
 ## Privacy notes
